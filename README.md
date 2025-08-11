@@ -1,2 +1,6 @@
-# Urban-Gardening
-It a Poster which represents urban gardening and giving environment awarness in urban areas
+Our Project is about creating a poster about Urban Gardening
+Team Members:
+Tanishqa
+Reshma
+Pavani
+Mounika
